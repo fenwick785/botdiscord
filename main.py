@@ -1,9 +1,9 @@
 import os
 import discord
-from googletrans import Translator
-from discord.ext import commands
 import googletrans
 #pip install googletrans==3.1.0a0
+from googletrans import Translator
+from discord.ext import commands
 import requests
 import json
 import hanzidentifier
